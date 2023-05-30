@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center
+}
+h1{
+  padding-left: 15%;
+}
+.emojiList{
+  display: flex;
+  flex-direction: column;
+}
